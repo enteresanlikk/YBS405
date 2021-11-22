@@ -1,4 +1,4 @@
-# Ödev 1
+# Ödev 2
 
 https://raw.githubusercontent.com/yasarkucukefe/YBS_405/main/data/odev2veri.csv adresinden okuyacağınız veri setini kullanarak aşağıdaki sınıflandırma (classification) işlemlerini yapınız.
 
